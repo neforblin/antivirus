@@ -1,0 +1,4 @@
+Welcome
+wtsSession = 2
+Starting "C:\Windows\System32\cmd.exe
+Process started pid = 15976

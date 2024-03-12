@@ -1,0 +1,2 @@
+Welcome
+main func Start

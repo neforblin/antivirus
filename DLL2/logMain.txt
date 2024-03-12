@@ -1,0 +1,7 @@
+Welcome
+RegisterServiceCtrlHandler success
+456
+fwerwe1213
+WTSEnumerateSessionsW returns TRUE, sessionsCount = 4
+wtsSessions[i].SessionId = 1
+wtsSessions[i].SessionId = 2
